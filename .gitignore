@@ -1,0 +1,24 @@
+obj/
+bin/
+publish/
+wwwroot/Image
+*.user
+*.vs
+/appsettings.json
+# Packages
+packages/
+
+# Build output
+*.dll
+*.exe
+*.pdb
+
+# Logs and databases
+*.log
+*.sqlite
+
+# NuGet
+*.nupkg
+
+# IDE-specific files
+.vscode/
